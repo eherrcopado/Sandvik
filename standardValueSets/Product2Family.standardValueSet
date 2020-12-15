@@ -31,4 +31,9 @@
         <default>false</default>
         <label>Blog</label>
     </standardValue>
+    <standardValue>
+        <fullName>VIP</fullName>
+        <default>false</default>
+        <label>VIP</label>
+    </standardValue>
 </StandardValueSet>
